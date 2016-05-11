@@ -1,9 +1,14 @@
 # ![](https://cdn2.iconfinder.com/data/icons/science-and-research-line/80/negative_line_gaph_cosine_sine_negative-24.png)Bisection Method Algorithm
 
 
-The program implements the bisection method to find the roots of a given a continous function.
+The bisection method finds the root of a given continous function. This program uses the function:
 
-given two points A, B, the program find the mid point, then chooses either side for further processing
+  ![](http://rogercortesi.com/eqn/tempimagedir/eqn5996.png)
+
+It askes the user for
+
+* Point A
+* Point B
+* Tolerance
 
 
--------Need to fix------
