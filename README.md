@@ -11,4 +11,5 @@ It askes the user for
 * Point B
 * Tolerance
 
-
+using these two points from the user, it narrows down in which interval the root lies in. Once finding out in which interval it lies in, 
+whether   ![](https://latex.codecogs.com/gif.latex?%5Ba%2C%20midpoint%5D%20or%20%5Bmidpoint%2C%20b%5D) , it then chooses that sub interval to repeat the process to get to the root.
