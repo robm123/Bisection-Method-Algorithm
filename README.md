@@ -1,5 +1,6 @@
 # ![](https://cdn2.iconfinder.com/data/icons/science-and-research-line/80/negative_line_gaph_cosine_sine_negative-24.png)Bisection Method Algorithm
 
+Uses: Mips Assembly language
 
 The bisection method finds the root of a given continous function. This program uses the function:
 
