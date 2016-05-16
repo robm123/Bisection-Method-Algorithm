@@ -4,7 +4,7 @@ Uses: Mips Assembly language
 
 The bisection method finds the root of a given continous function. This program uses the function:
 
-  ![](http://rogercortesi.com/eqn/tempimagedir/eqn5996.png)
+  ![](http://latex2png.com/output//latex_0f3e4e898b5152e353e571dafd2e4679.png)
 
 It askes the user for
 
